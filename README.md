@@ -1,32 +1,30 @@
-title: "Olivia Yukari Asai" 
-output: html_document 
-bibliography: rmarkdown.bib
+### Olivia Yukari Asai
 
 **SOBRE MIM**
-- Estudante de Engenharia de Software do quarto período, e trainee de Analista de Sistemas.
-- Procurndo aprimorar minhas habilidades e adquirir mais experiência e conhecimento.
+Estudante de Engenharia de Software do quarto período, e trainee de Analista de Sistemas. </br>
+Procurndo aprimorar minhas habilidades e adquirir mais experiência e conhecimento. </br>
 
-**PERFIL ACADÊMICO**
-Centro Universitário Filadélfia - UniFil
-Engenharia de Software
-Bacharelado
-2021 - presente (4o período)
+**PERFIL ACADÊMICO** </br>
+Centro Universitário Filadélfia - UniFil </br>
+Engenharia de Software </br>
+Bacharelado </br>
+2021 - presente (4o período) </br>
 
-**EXPERIÊNCIA PROFISSIONAL**
-Brid Soluções
-Estágio
-novembro/2021 - maio/2022
-Trainee
-junho/2022 - presente
-Desenvolvimento e suporte em QlikView e QlikSense
+**EXPERIÊNCIA PROFISSIONAL** </br>
+Brid Soluções </br>
+Estágio </br>
+novembro/2021 - maio/2022 </br>
+Trainee </br>
+junho/2022 - presente </br>
+Desenvolvimento e suporte em QlikView e QlikSense </br>
 
-**IDIOMAS**
-Inglês avançado
-Francês intermediário
+**IDIOMAS** </br>
+Inglês avançado </br>
+Francês intermediário </br>
 
-**HABILIDADES E COMPETÊNCIAS**
-Habilidade de escrita
-Rápido aprendizado
-Trabalho em equipe
-Capacidade criativa
-Raciocínio lógico
+**HABILIDADES E COMPETÊNCIAS** </br>
+Habilidade de escrita </br>
+Rápido aprendizado </br>
+Trabalho em equipe </br>
+Capacidade criativa </br>
+Raciocínio lógico </br>
