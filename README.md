@@ -1,4 +1,4 @@
-### Olivia Yukari Asai
+## Olivia Yukari Asai
 
 **SOBRE MIM** </br>
 Estudante de Engenharia de Software do quarto período, e trainee de Analista de Sistemas.  </br>
