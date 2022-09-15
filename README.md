@@ -1,8 +1,8 @@
 ### Olivia Yukari Asai
 
 **SOBRE MIM** </br>
-Estudante de Engenharia de Software do quarto período, e trainee de Analista de Sistemas. </br>
-Procurndo aprimorar minhas habilidades e adquirir mais experiência e conhecimento. </br>
+Estudante de Engenharia de Software do quarto período, e trainee de Analista de Sistemas.  </br>
+Procurando aprimorar minhas habilidades e adquirir mais experiência e conhecimento. </br>
 
 **PERFIL ACADÊMICO** </br>
 Centro Universitário Filadélfia - UniFil </br>
