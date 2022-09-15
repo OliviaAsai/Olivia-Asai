@@ -22,9 +22,3 @@ Desenvolvimento e suporte em QlikView e QlikSense </br>
 Inglês avançado </br>
 Francês intermediário </br>
 
-**HABILIDADES E COMPETÊNCIAS** </br>
-Habilidade de escrita </br>
-Rápido aprendizado </br>
-Trabalho em equipe </br>
-Capacidade criativa </br>
-Raciocínio lógico </br>
